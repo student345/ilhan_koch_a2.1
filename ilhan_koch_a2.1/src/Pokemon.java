@@ -9,8 +9,7 @@ public class Pokemon {
 	private int number;
 	private static int nextNumber = 1;
 	private Trainer trainer = null;
-	private ArrayList<Swap> swaps;
-	
+	private ArrayList<Swap> swaps;	
 	private boolean swapAllow = false;
 	
 	
