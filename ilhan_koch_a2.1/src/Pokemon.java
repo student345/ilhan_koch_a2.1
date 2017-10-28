@@ -1,8 +1,6 @@
 
 
 import java.util.ArrayList;
-//Tes
-
 
 public class Pokemon {
     

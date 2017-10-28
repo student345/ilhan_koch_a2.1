@@ -1,7 +1,7 @@
 public class PokemonManager {
 
 	public static void main(String[] args) {
-		//test
+		
 		Trainer Detlef = new Trainer("Detlef","Roemisch");
 		Trainer Ash = new Trainer("Ash","Ketchum");
 		
